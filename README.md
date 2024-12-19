@@ -1,5 +1,5 @@
 # CS-370-S.Born
-**Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+**Briefly explain the work that you did on this project: What code were you given? What code did you create yourself? 
   For project two I was given the .py files necessary as well as a majority of the notbook completed for me. THis includes printing of the model and the tests needed to test the algorithim. I created a deep Q learning algorithim to train my pirate agent. 
 **What do computer scientists do and why does it matter?
 Computer scientists are professionals who focus on the theoretical foundations and practical applications of computing technology. They work on solving complex problems related to the development and optimization of algorithms, software, and systems that process and analyze data. Their work spans a wide range of domains, from designing algorithms that make processes more efficient to creating software that powers everything from video games to critical infrastructure systems.
